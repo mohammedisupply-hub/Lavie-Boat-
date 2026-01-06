@@ -1,0 +1,8 @@
+{
+  "name": "Lavie Boat - Elite Nile Experience",
+  "description": "A high-end luxury landing page and marketing management hub for Lavie Boat, the exclusive floating destination in Beni Suef, Egypt.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
